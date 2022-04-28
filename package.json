@@ -18,7 +18,7 @@
     "@crystallize/react-layout": "^3.0.0",
     "@nerdenough/mjml-ncc-bundle": "^1.1.1",
     "change-case": "^3.1.0",
-    "cross-fetch": "^3.0.2",
+    "cross-fetch": "^3.1.5",
     "dotenv": "^8.0.0",
     "graphql": "^14.3.0",
     "graphql-tag": "^2.10.1",
